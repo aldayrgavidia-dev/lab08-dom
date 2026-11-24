@@ -7,6 +7,7 @@ Gestor de tareas pendientes. Permite agregar tareas indicando su nombre y priori
 
 ## Codigo principal
 
+```js
 
 // Tarea individual: gestor de tareas pendientes
 
@@ -58,6 +59,7 @@ formulario.addEventListener("submit", (evento) => {
   formulario.reset();
 });
 
+```
 
 ## Pruebas realizadas
 
